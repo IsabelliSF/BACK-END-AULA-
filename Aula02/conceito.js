@@ -43,3 +43,6 @@ let NOMECOMPLETO;
 // - Palavras separadas por underscore_
 
 //  let nome_completo; let total_vendas;
+
+// Template String
+console.log(`Sua idade : ${idade} anos.`)

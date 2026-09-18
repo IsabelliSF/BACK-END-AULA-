@@ -15,4 +15,3 @@ console.log(idade);
 console.log(mensagem1);
 console.log(mensagem2);
 console.log(mensagem3);
-
