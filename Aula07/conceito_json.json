@@ -1,0 +1,14 @@
+{
+    "cachorro": {
+        "nome": "Doug",
+        "idade": 3,
+        "raça": "Golden Retriver",
+        "vacinado": true,
+        "peso": 25.5,
+        "brinquedo": ["bola", "osso", "frisbee"],
+    "dono" {
+        "nome": "Carl",
+        "telefone": "11940028922",
+    }
+    }
+}

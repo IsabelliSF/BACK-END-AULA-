@@ -11,3 +11,6 @@ Isso permite que o JavaScript:
 - Crie elementos novos
 
 > O navegador transforma o HTML em objetos manipuláveis.  
+
+<!-------------------------------------------------------->
+
